@@ -46,4 +46,4 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 
 ---
 
-*This repository is automatically maintained and updated by [CP Vault](https://github.com/ankit/CP-Vault).*
+*This repository is automatically maintained and updated by [CP Vault](https://github.com/ankitpaul6201/CP-VAULT).*
