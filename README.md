@@ -8,18 +8,18 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 
 | Platform | Solved |
 | :--- | :---: |
-| LeetCode | **1** |
+| LeetCode | **2** |
 | Codeforces | **0** |
 | CodeChef | **0** |
 | HackerRank | **0** |
-| **Total Solved** | **1** |
+| **Total Solved** | **2** |
 
 <br>
 
 | Difficulty | Count |
 | :--- | :---: |
 | <span style="color:#00b8a3;">🟢 Easy</span> | **0** |
-| <span style="color:#ffc01e;">🟡 Medium</span> | **1** |
+| <span style="color:#ffc01e;">🟡 Medium</span> | **2** |
 | <span style="color:#ef4444;">🔴 Hard</span> | **0** |
 
 ---
@@ -31,7 +31,7 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 ---
 
 ## 🛠️ Languages Used
-`C++ (1)`
+`C++ (2)`
 
 ---
 
@@ -39,7 +39,8 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 
 | # | Platform | Problem | Difficulty | Language | Synced At |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 | 💻 LeetCode | [6 - Zigzag Conversion](./LeetCode/Medium/6%20-%20Zigzag%20Conversion) | <span style="color:#ffc01e; font-weight:bold;">Medium</span> | `C++` | 7/13/2026 |
+| 1 | 💻 LeetCode | [7 - Reverse Integer](./LeetCode/Medium/7%20-%20Reverse%20Integer) | <span style="color:#ffc01e; font-weight:bold;">Medium</span> | `C++` | 7/13/2026 |
+| 2 | 💻 LeetCode | [6 - Zigzag Conversion](./LeetCode/Medium/6%20-%20Zigzag%20Conversion) | <span style="color:#ffc01e; font-weight:bold;">Medium</span> | `C++` | 7/13/2026 |
 
 ---
 
