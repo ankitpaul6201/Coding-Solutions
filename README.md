@@ -9,10 +9,10 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 | Platform | Solved |
 | :--- | :---: |
 | LeetCode | **0** |
-| Codeforces | **1** |
+| Codeforces | **2** |
 | CodeChef | **0** |
 | HackerRank | **0** |
-| **Total Solved** | **1** |
+| **Total Solved** | **2** |
 
 <br>
 
@@ -31,7 +31,7 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 ---
 
 ## 🛠️ Languages Used
-`Python 2 (1)`
+`Python 2 (2)`
 
 ---
 
@@ -39,7 +39,8 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 
 | # | Platform | Problem | Difficulty | Language | Synced At |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 | 🏆 Codeforces | [112A - Petya and Strings](./Codeforces/112A%20-%20Petya%20and%20Strings) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
+| 1 | 🏆 Codeforces | [114A - Cifera](./Codeforces/114A%20-%20Cifera) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
+| 2 | 🏆 Codeforces | [112A - Petya and Strings](./Codeforces/112A%20-%20Petya%20and%20Strings) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
 
 ---
 
