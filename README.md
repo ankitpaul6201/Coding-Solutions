@@ -9,10 +9,10 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 | Platform | Solved |
 | :--- | :---: |
 | LeetCode | **0** |
-| Codeforces | **2** |
+| Codeforces | **3** |
 | CodeChef | **0** |
 | HackerRank | **0** |
-| **Total Solved** | **2** |
+| **Total Solved** | **3** |
 
 <br>
 
@@ -31,7 +31,7 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 ---
 
 ## 🛠️ Languages Used
-`Python 2 (2)`
+`Python 2 (3)`
 
 ---
 
@@ -39,8 +39,9 @@ Welcome to my Competitive Programming repository! This repository stores all my 
 
 | # | Platform | Problem | Difficulty | Language | Synced At |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 | 🏆 Codeforces | [114A - Cifera](./Codeforces/114A%20-%20Cifera) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
-| 2 | 🏆 Codeforces | [112A - Petya and Strings](./Codeforces/112A%20-%20Petya%20and%20Strings) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
+| 1 | 🏆 Codeforces | [108A - Palindromic Times](./Codeforces/108A%20-%20Palindromic%20Times) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
+| 2 | 🏆 Codeforces | [114A - Cifera](./Codeforces/114A%20-%20Cifera) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
+| 3 | 🏆 Codeforces | [112A - Petya and Strings](./Codeforces/112A%20-%20Petya%20and%20Strings) | <span style="color:#9ca3af; font-weight:bold;">Unknown</span> | `Python 2` | 7/13/2026 |
 
 ---
 
